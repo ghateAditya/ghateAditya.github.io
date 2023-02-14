@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ghateAditya.github.io/categories/</loc>
-  </url><url>
     <loc>http://ghateAditya.github.io/</loc>
+    <lastmod>2023-02-03T21:34:41-05:00</lastmod>
+  </url><url>
+    <loc>http://ghateAditya.github.io/posts/</loc>
+    <lastmod>2023-02-03T21:34:41-05:00</lastmod>
+  </url><url>
+    <loc>http://ghateAditya.github.io/posts/the_battle_within/</loc>
+    <lastmod>2023-02-03T21:34:41-05:00</lastmod>
+  </url><url>
+    <loc>http://ghateAditya.github.io/categories/</loc>
   </url><url>
     <loc>http://ghateAditya.github.io/tags/</loc>
   </url>
